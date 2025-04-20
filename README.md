@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdeebaNizam404&show_icons=true&theme=skyblue" alt="Adeeba's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdeebaNizam404&show_icons=true&theme=white" alt="Adeeba's GitHub Stats" />
 </p>
 
 ---
@@ -45,7 +45,10 @@
 ## 📈 GitHub Streak
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AdeebaNizam404&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AdeebaNizam404&theme=white&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 
 ---
