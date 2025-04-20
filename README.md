@@ -12,13 +12,7 @@
   </a>
 </p>
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdeebaNizam404&style=flat-square&color=blue)
-
----
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🤖 Love building at the intersection of AI and Software!
 
