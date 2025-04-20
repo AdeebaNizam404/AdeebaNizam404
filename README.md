@@ -14,7 +14,7 @@
 
 ### 🤖 Love building at the intersection of AI and Software!
 
-  <img  align="right" height="140px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"/>
+  <img  align="right" height="180px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"/>
 
 - 👩‍🎓 B.Tech CSE (AI & ML) @ United Institute of Technology  
 - 🌱 Currently learning **AsyncAPI**, **MQTT**, **JavaScript**, and template development  
