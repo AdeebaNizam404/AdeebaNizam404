@@ -45,8 +45,8 @@
 ## 📈 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=AdeebaNizam404&theme=lightblue&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AdeebaNizam404&show_icons=true&theme=tokyonight" />
+
 
 ---
 
