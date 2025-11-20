@@ -1,4 +1,4 @@
-ts<!-- Header GIF -->
+<!-- Header GIF -->
 <table>
 <tr>
 <td>
